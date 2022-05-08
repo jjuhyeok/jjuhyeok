@@ -22,11 +22,13 @@
 </div>
 <h1>
 </h1>
+<div align=center>
 
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok&theme=radical)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact)](https://github.com/jjuhyeok/github-readme-stats)
 
+</div>
 <div align=center>
 
 <a href="https://instagram.com/alpox.dev">
@@ -40,7 +42,7 @@
         style="height : auto; margin-left : 50px; margin-right : 50px;"/>
 </a>
 
-</div>
+
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
@@ -50,6 +52,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+  
+</div>
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
