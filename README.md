@@ -32,10 +32,8 @@
 </div>
 <div align=center>
 
-<div align=center>📚Social</div>
-<h1>
-</h1>
-  
+<div align=center><h1>📚 SOCIAL</h1></div>
+
 <a href="https://instagram.com/jjjuhyeok/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
