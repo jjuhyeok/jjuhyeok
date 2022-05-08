@@ -37,7 +37,7 @@
 <a href="https://instagram.com/jjjuhyeok/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto;"/>
 </a>
 <a href="https://alpox.kr">
     <img 
