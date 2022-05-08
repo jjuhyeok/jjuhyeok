@@ -46,7 +46,11 @@
         style="height : auto; margin-left : 50px; margin-right : 50px;"/>
 </a>
 
-
+<a href="https://www.instagram.com/jjjuhyeok/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-FF00B6(ex.222222)?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 - Type some Markdown on the left
