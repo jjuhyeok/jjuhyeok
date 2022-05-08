@@ -34,11 +34,7 @@
 <br><br><br><br>
 <div align=center><h1>🏝️ SOCIAL</h1></div>
 
-<a href="https://instagram.com/jjjuhyeok/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
-        style="height : auto;"/>
-</a>
+
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
