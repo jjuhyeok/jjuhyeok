@@ -25,6 +25,7 @@
   <br>
 </div>
 
+(Github Stat) [![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)] (Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)
 
 <a href="https://instagram.com/alpox.dev">
     <img 
