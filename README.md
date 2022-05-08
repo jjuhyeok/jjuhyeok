@@ -32,7 +32,7 @@
 </div>
 <div align=center>
 <br><br><br><br>
-<div align=center><h1>📚 SOCIAL</h1></div>
+<div align=center><h1>🏝️ SOCIAL</h1></div>
 
 <a href="https://instagram.com/jjjuhyeok/">
     <img 
