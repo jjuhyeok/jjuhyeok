@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
-<br><br>
+<br><br><br><br>
 <div align=center><h1>📚 Ability</h1></div>
 
 
@@ -31,7 +31,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
 </div>
 <div align=center>
-
+<br><br><br><br>
 <div align=center><h1>📚 SOCIAL</h1></div>
 
 <a href="https://instagram.com/jjjuhyeok/">
