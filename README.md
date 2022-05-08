@@ -48,7 +48,7 @@
 
 <a href="https://www.instagram.com/jjjuhyeok/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-FF00B6?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
+        src="http://img.shields.io/badge/-Instagram-FFA1E4?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
