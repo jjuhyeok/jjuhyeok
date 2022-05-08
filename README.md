@@ -35,7 +35,7 @@
 <div align=center><h1>🏝️ SOCIAL</h1></div>
 
 
-<a href="https://alpox.kr">
+<a href="https://jjjuhyeok.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jjjuhyeok.tistory.com/"
         style="height : auto; margin-left : 50px; margin-right : 50px;"/>
