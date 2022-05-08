@@ -25,7 +25,7 @@
   <br>
 </div>
 
-[![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)
+![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)
 
 <a href="https://instagram.com/alpox.dev">
     <img 
