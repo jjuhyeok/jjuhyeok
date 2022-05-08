@@ -1,4 +1,4 @@
-<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok's%20World&fontSize=70&fontColor=black)</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok's%20World&fontSize=70&fontColor=black)
 
 
 
