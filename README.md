@@ -28,9 +28,13 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact&theme=chartreuse-dark)](https://github.com/jjuhyeok/github-readme-stats&theme=chartreuse-dark)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
 </div>
 <div align=center>
 
+
+  
 <a href="https://instagram.com/jjjuhyeok/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jjjuhyeok/"
@@ -43,19 +47,7 @@
 </a>
 
 
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
-######
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-  
-</div>
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
 - See HTML in the right
