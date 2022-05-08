@@ -26,7 +26,7 @@
 
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok&theme=chartreuse-dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact)](https://github.com/jjuhyeok/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact)](https://github.com/jjuhyeok/github-readme-stats&theme=chartreuse-dark)
 
 </div>
 <div align=center>
