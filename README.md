@@ -35,7 +35,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
 ######
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
