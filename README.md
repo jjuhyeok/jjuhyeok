@@ -9,7 +9,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>">
   #61DAFB
-  <img src="https://img.shields.io/badge/c-61DAFB?style=for-the-badge&logo=c&logoColor=blue">
+  <img src="https://img.shields.io/badge/c-F7DF1E?style=for-the-badge&logo=c&logoColor=blue">
   <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue"> 
   <br>
   <img src="https://img.shields.io/badge/Kaggle-F5F5F5?style=for-the-badge&logo=kaggle&logoColor=aqua&fontColor=00FFFF"> 
