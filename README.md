@@ -26,6 +26,8 @@
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)
 
+<div align=center>
+
 <a href="https://instagram.com/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
@@ -37,6 +39,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+</div>
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
 ######
