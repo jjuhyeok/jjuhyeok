@@ -20,7 +20,7 @@
   <br>
 </div>
 <br><br><br><br>
-<div align=center><h1>📚 Ability</h1></div>
+<div align=center><h1>📚🥇 Ability</h1></div>
 
 
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok&theme=chartreuse-dark)
