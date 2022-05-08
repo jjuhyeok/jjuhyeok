@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/c-61DAFB?style=for-the-badge&logo=c&logoColor=purple">
   <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue"> 
   <br>
-  <img src="https://img.shields.io/badge/Kaggle-F5F5F5?style=for-the-badge&logo=kaggle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kaggle-F5F5F5?style=for-the-badge&logo=kaggle&logoColor=aqua"> 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 
   <br>
