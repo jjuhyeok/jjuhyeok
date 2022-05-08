@@ -23,7 +23,7 @@
 <h1>
 </h1>
 
-![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)
+![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok&theme=radical)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact)](https://github.com/jjuhyeok/github-readme-stats)
 
