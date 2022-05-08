@@ -25,6 +25,7 @@
 
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact)](https://github.com/jjuhyeok/github-readme-stats)
 
 <div align=center>
 
