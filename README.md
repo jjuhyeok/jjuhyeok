@@ -1,5 +1,3 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok%20World&fontSize=70&fontColor=d6ace6)
 
 
