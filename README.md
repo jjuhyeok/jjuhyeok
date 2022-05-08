@@ -36,7 +36,7 @@
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 50px; margin-right : 50px;"/>
 </a>
 
 </div>
