@@ -9,7 +9,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/c-lightgrey">
+  <img src="https://img.shields.io/badge/c-style=for-the-badge&lightgrey">
   <img src="https://img.shields.io/badge/c-61DAFB?style=for-the-badge&logo=c&logoColor=blue">
   <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue"> 
   <br>
