@@ -32,7 +32,7 @@
 </div>
 <div align=center>
 
-<div align=center><h1>📚Social</div>
+<div align=center>📚Social</div>
 <h1>
 </h1>
   
