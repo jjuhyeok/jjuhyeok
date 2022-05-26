@@ -22,7 +22,7 @@
 <br><br><br><br>
 <div align=center><h1>🥇 ABILITY</h1></div>
 
-
+<div align=center>
 ![jjuhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuhyeok&theme=chartreuse-dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuhyeok&layout=compact&theme=chartreuse-dark)](https://github.com/jjuhyeok/github-readme-stats&theme=chartreuse-dark)
@@ -47,7 +47,7 @@
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
-
+</div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjuhyeok&count_bg=%233EDE4B&title_bg=%23272121&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
