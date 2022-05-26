@@ -29,9 +29,10 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngur0313)](https://solved.ac/백준아이디)
+
 </div>
-<div align=center>
 <br><br><br><br>
+ 
 <div align=center><h1>🏝️ SOCIAL</h1></div>
 
 
@@ -47,7 +48,7 @@
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
-</div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjuhyeok&count_bg=%233EDE4B&title_bg=%23272121&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
