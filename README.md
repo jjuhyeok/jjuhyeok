@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok's%20World&fontSize=70&fontColor=black)
 
-<div align=center><h1>🤷‍♂️ Introduce</h1></div>
+<div align=center><h1>🤷‍♂️ Introduce</h1>
 
 <a href="https://tidal-art-f46.notion.site/61aa385913af4d6595761e38b46fd2be/">
     <img 
@@ -9,7 +9,7 @@
 </a>
   <br>
   <br>
-
+</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
