@@ -5,7 +5,7 @@
 <a href="https://tidal-art-f46.notion.site/61aa385913af4d6595761e38b46fd2be/">
     <img 
         src="http://img.shields.io/badge/-ME-FFA1E4?style=flat&logo=ME&link=https://tidal-art-f46.notion.site/61aa385913af4d6595761e38b46fd2be/"
-        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
+        style="height : auto; margin-left : 500px; margin-right : 500px;"/>
 </a>
   <br>
   <br>
