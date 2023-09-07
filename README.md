@@ -1,5 +1,4 @@
-<div align=center><img style="width:100%; height:10%;" src="https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c"/>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok's%20World&fontSize=70&fontColor=black)
 <div align=center><h1>🤷‍♂️ Introduce</h1>
 
 <a href="https://tidal-art-f46.notion.site/61aa385913af4d6595761e38b46fd2be/">
