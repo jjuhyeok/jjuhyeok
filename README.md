@@ -1,4 +1,4 @@
-<div align=center><img width="100%"; height="60%" src="https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c"/>
+<div align=center><img width="100%"; height="30%" src="https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c"/>
 
 <div align=center><h1>🤷‍♂️ Introduce</h1>
 
