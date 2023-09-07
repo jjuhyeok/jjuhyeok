@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20jjuhyeok's%20World&fontSize=70&fontColor=black)
+![header](https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c)
 
 <div align=center><h1>🤷‍♂️ Introduce</h1>
 
