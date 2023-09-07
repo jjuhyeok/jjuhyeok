@@ -1,4 +1,5 @@
 ![header](img width="10%" src="https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c")
+![header]<img width="100%" src="https://github.com/jjuhyeok/jjuhyeok/assets/49608953/8781eab9-b7ce-4e8d-ae52-948cbba1351c"/>
 
 <div align=center><h1>🤷‍♂️ Introduce</h1>
 
