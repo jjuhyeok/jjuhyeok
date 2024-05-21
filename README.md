@@ -14,8 +14,8 @@
 | [합성데이터 기반 객체 탐지 AI 대회🚗](https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/tree/main) | 1/1686 | 0.05% | 대상🥇 | Object Detection,    Synthetic Data   | VISOL                          |
 | [상추의 생육 환경 생성 AI 대회🥬](https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction) | 2/861 | 0.2%    | 2등상🥈 | Time-Series, Generative        | KIST                           |
 | 2023 Sejong AI Challenge |     |      | 2등상🥈 | Signal, Sensor         | Sejong Univ                           |
-| [제주도 특산물 가격 예측 AI 대회🍊](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 3/2517 | 0.1%  | 3등상🥉 | Time-Series         | 제주특별자치도                  |
 | [제주도 교통량 예측 AI 대회🏝️](https://github.com/jjuhyeok/DACON_Jeju_Island_Traffic_Jam_Prediction) | 3/2073 | 0.1% | 3등상🥉 | Regression          | 제주특별자치도                  |
+| [제주도 특산물 가격 예측 AI 대회🍊](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 10/2517 | 0.3%  | 3등상🥉 | Time-Series         | 제주특별자치도                  |
 | [자율 운항 선박 대회🚤](https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition) |  |    | 장려상🥉 | Ocean          | 대한조선학회   |
 | 2022 Sejong AI Challenge |     |      | 3등상🥉 | classification        | Sejong Univ                           |
 | DACrew | 1/114 |   0.9% | 1등🥇 | Transformer          | DACON   |
