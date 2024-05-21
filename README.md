@@ -1,6 +1,11 @@
+# Work Experience 
+- **AI Engineer (Intern)**
+ **(AI 기반 정유 공정 최적화(예측 모델 개발) 및 이상탐지 / 2023.02 ~ 2023.12)**
+- **[인공지능 랭커 특강(2023/12/21)](https://dacon.io/forum/410316?page=1&dtype=recent&fType=&category=daschool)**🔗
+- [**DACON PBL 제작(외주)**](https://dacon.io/edu/1011)🔗
+  
 # Records 🏆
 대회명을 클릭하면 정리한 페이지로 이동됩니다.
-
 | 대회명                                              | 순위    | 상위    | 수상 | TASK                 | 주최                           |
 |----------------------------------------------------|-------|-------|-----|---------------------|-------------------------------|
 | [온라인 채널 제품 판매량 예측 AI 경진대회](https://github.com/jjuhyeok/LG-Demand_Forecasting) | 본선(1/110) | 0.9%    | 대상🥇 | Time-Series         | LG AI Research + LG 생활건강  |
