@@ -29,7 +29,6 @@
 
 ### 🎓 **Education & Courses**
 - **부스트코스 <BEYOND AI BASIC> 코칭스터디 리더 수료**
-- [**LG Aimers (2022.07.04~2022.09.04)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
-- [**LG Aimers 2 (2023.01.03~2023.03.26)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers2%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
-- [**LG Aimers 3 (2023.07.01~2023.09.26)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers2%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
-
+- [**LG Aimers (2022.07.04~2022.09.04)**]
+- [**LG Aimers 2 (2023.01.03~2023.03.26)**]
+- [**LG Aimers 3 (2023.07.01~2023.09.26)**]
