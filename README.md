@@ -9,8 +9,8 @@
 | [상추의 생육 환경 생성 AI 대회](https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction) | 2/861 | 1%    | 2등상 | Time-Series         | KIST                           |
 | [제주도 특산물 가격 예측 AI 대회](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 3/2517 | 0.6%  | 3등상 | Time-Series         | 제주특별자치도                  |
 | [제주도 교통량 예측 AI 대회](https://github.com/jjuhyeok/DACON_Jeju_Island_Traffic_Jam_Prediction) | 3/2073 | 0.75% | 3등상 | Regression          | 제주특별자치도                  |
-| [자율주행 센서의 안테나 성능 예측 AI 경진대회](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0%    | 수상 | Regression          | LG AI Research + LG Innotek   |
 | [자율 운항 선박 대회](https://github.com/jjuhyeok/LG-AI_Radar) |  |    | 장려상 | Ocean          | 대한조선학회   |
+| [자율주행 센서의 안테나 성능 예측 AI 경진대회](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0%    |  | Regression          | LG AI Research + LG Innotek   |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 본선(1/107) | 0.5%  |      | Classification      | LG AI Research + LG Display   |
 | [감귤 착과량 예측 AI 대회](https://github.com/jjuhyeok/DACON_Citrus) | 12/911 | 3%    |     | Regression          | 제주테크노파크                  |
 | [공기압축기 이상 판단 AI 대회](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor) | Top 3% | 3%    |     | Anomaly Detection   | 공기압축기 협회                 |
