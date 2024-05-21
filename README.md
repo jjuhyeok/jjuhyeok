@@ -1,7 +1,7 @@
 # Work Experience 
 - **AI Engineer (Intern)**
  **(AI 기반 정유 공정 최적화(예측 모델 개발) 및 이상탐지 / 2023.02 ~ 2023.12)**
-- **[인공지능 랭커 특강(2023/12/21)](https://dacon.io/forum/410316?page=1&dtype=recent&fType=&category=daschool)**🔗
+- 인공지능 랭커 특강(2023/12/21)
 - [**DACON PBL 제작(외주)**](https://dacon.io/edu/1011)🔗
   
 # Records 🏆
