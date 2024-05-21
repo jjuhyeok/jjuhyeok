@@ -12,4 +12,8 @@
 - **2022 Sejong AI Challenge 장려상** (2022.11.09 ~ 11.11 / 세종대학교)
 - **2023 Sejong AI Challenge 은상** (2023.11.23 ~ 11.24 / 세종대학교)
 - **[자율 운항 선박 대회 장려상](http://imc.sejong.ac.kr/bbs_shop/read.htm?me_popup=&auto_frame=&cate_sub_idx=0&search_first_subject=&list_mode=board&board_code=news&search_key=&key=&page=&idx=179879)** (2022.08.17 / 대한조선학회)
-- **[감귤 착과량 예측 AI 대회 - 최종 12등](https://github.com/jjuhyeok/DACON_Citrus)** (Regression / 2022.12.12 ~ 12.14
+- **[감귤 착과량 예측 AI 대회 - 최종 12등](https://github.com/jjuhyeok/DACON_Citrus)** (Regression / 2022.12.12 ~ 12.14 / 제주테크노파크)
+- **데이크루 1등** (2023.04.03 ~ 05.26 / 데이크루)
+- **[공기압축기 이상 판단 AI 대회 - Top 3%](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor)** (Anomaly Detection / 2023.04.03 ~ 04.21 / 공기압축기 협회)
+- **제1회 신약개발 AI 경진대회 - Public 6th(0.4%), Private 4th(0.2%)** (Regression, Chemical / 2023.08.07~09.25 / 한국화학연구원, 생명공학연구원)
+- **[전력 사용량 예측 AI 경진대회 - Public (Top 0.3%), Private (Top 1%)](https://github.com/jjuhyeok/Electricity_Usage_Prediction)** (Time-Series / 2023.07.17 ~ 08.28 / 한국에너지공단)
