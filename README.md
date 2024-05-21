@@ -3,6 +3,21 @@
 | 대회명                                              | 순위    | 상위    | 수상 | TASK                 | 주최                           | 링크 |
 |----------------------------------------------------|-------|-------|-----|---------------------|-------------------------------|-----|
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회](https://github.com/jjuhyeok/LG-AI_Radar) | 1/50  | 2%    | 수상 | Regression          | LG AI Research + LG Innotek   | [링크](https://github.com/jjuhyeok/LG-AI_Radar) |
+| [스마트 공장 제품 품질 상태 분류 AI 경진대회](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 1/200 | 0.5%  | 수상 | Classification      | LG AI Research + LG Display   | [링크](https://github.com/jjuhyeok/LG-Smart_Factory_3) |
+| [온라인 채널 제품 판매량 예측 AI 경진대회](https://github.com/jjuhyeok/LG-Demand_Forecasting) | 1/100 | 1%    | 수상 | Time-Series         | LG AI Research + LG 생활건강  | [링크](https://github.com/jjuhyeok/LG-Demand_Forecasting) |
+| [HD현대 AI Challenge](https://github.com/jjuhyeok/HD-AI_CHALLENGE_FINAL) | 1/120 | 0.83% | 수상 | Regression          | HD현대 + HD한국조선해양 + HD현대건설기계 | [링크](https://github.com/jjuhyeok/HD-AI_CHALLENGE_FINAL) |
+| [Pathology Medical Image AI Challenge](https://github.com/jjuhyeok/SNUH-Pathology_Medical_Image_AI_Challenge) | 1/71  | 1.41% | 수상 | Multi-Modal         | 서울대학교병원                  | [링크](https://github.com/jjuhyeok/SNUH-Pathology_Medical_Image_AI_Challenge) |
+| [합성데이터 기반 객체 탐지 AI 대회](https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/tree/main) | 1/300 | 0.33% | 수상 | Object Detection    | VISOL                          | [링크](https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/tree/main) |
+| [상추의 생육 환경 생성 AI 대회](https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction) | 2/200 | 1%    | 수상 | Time-Series         | KIST                           | [링크](https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction) |
+| [제주도 교통량 예측 AI 대회](https://github.com/jjuhyeok/DACON_Jeju_Island_Traffic_Jam_Prediction) | 3/400 | 0.75% | 수상 | Regression          | 제주특별자치도                  | [링크](https://github.com/jjuhyeok/DACON_Jeju_Island_Traffic_Jam_Prediction) |
+| [제주도 특산물 가격 예측 AI 대회](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 3/500 | 0.6%  | 수상 | Time-Series         | 제주특별자치도                  | [링크](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) |
+| [감귤 착과량 예측 AI 대회](https://github.com/jjuhyeok/DACON_Citrus) | 12/400 | 3% | | Regression | 제주테크노파크 | [링크](https://github.com/jjuhyeok/DACON_Citrus) |
+| [공기압축기 이상 판단 AI 대회](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor) | Top 3% | 3% | | Anomaly Detection | 공기압축기 협회 | [링크](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor) |
+| [전력 사용량 예측 AI 경진대회](https://github.com/jjuhyeok/Electricity_Usage_Prediction) | Top 1% | 1% | 수상 | Time-Series | 한국에너지공단 | [링크](https://github.com/jjuhyeok/Electricity_Usage_Prediction) |
+| [신약개발 AI 경진대회](https://github.com/jjuhyeok) | 4/1000 | 0.4% | | Regression, Chemical | 한국화학연구원, 생명공학연구원 | [링크](https://github.com/jjuhyeok) |
+| 대회명                                              | 순위    | 상위    | 수상 | TASK                 | 주최                           | 링크 |
+|----------------------------------------------------|-------|-------|-----|---------------------|-------------------------------|-----|
+| [자율주행 센서의 안테나 성능 예측 AI 경진대회](https://github.com/jjuhyeok/LG-AI_Radar) | 1/50  | 2%    | 수상 | Regression          | LG AI Research + LG Innotek   | [링크](https://github.com/jjuhyeok/LG-AI_Radar) |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 1/200 | 0​⬤
 
 | 대회명                                              | 순위    | 상위    | 수상 | TASK                 | 주최                           |
