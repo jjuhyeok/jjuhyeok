@@ -22,7 +22,14 @@
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0.04%    |  | Industry, Regression          | LG AI Research + LG Innotek   |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 본선(1/107) | 1%  |      | Industry, Classification      | LG AI Research + LG Display   |
 | [감귤 착과량 예측 AI 대회🍊](https://github.com/jjuhyeok/DACON_Citrus) | 12/911 | 1%    |     | Regression          | 제주테크노파크                  |
-| [공기압축기 이상 판단 AI 대회🩺](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor) |     | 3%    |     | Anomaly Detection   | 공기압축기 협회                 |
 | [전력 사용량 예측 AI 경진대회⚡](https://github.com/jjuhyeok/Electricity_Usage_Prediction) | public(9/2722) | 1%    |     | Time-Series         | 한국에너지공단                  |
 | [신약개발 AI 경진대회](https://github.com/jjuhyeok) | 4/1581 | 0.2%  |     | Regression, Chemical| 한국화학연구원, 생명공학연구원   |
+| [공기압축기 이상 판단 AI 대회🩺](https://github.com/jjuhyeok/Anomaly-Detection-of-Air-Compressor) |     | 3%    |     | Anomaly Detection   |                 |
+
+
+### 🎓 **Education & Courses**
+- **부스트코스 <BEYOND AI BASIC> 코칭스터디 리더 수료**
+- [**LG Aimers (2022.07.04~2022.09.04)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
+- [**LG Aimers 2 (2023.01.03~2023.03.26)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers2%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
+- [**LG Aimers 3 (2023.07.01~2023.09.26)**](https://jjjuhyeok.tistory.com/category/LG%20Aimers2%28AI%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EA%B3%BC%EC%A0%95%29)
 
