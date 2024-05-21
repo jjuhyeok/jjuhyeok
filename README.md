@@ -13,7 +13,6 @@
 | [자율 운항 선박 대회](https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition) |  |    | 장려상 | Ocean          | 대한조선학회   |
 | [2022 Sejong AI Challenge] |     |      | 3등상 | classification        | Sejong Univ                           |
 | [DACrew] | 1/114 |   0.9% | 1등 | Transformer          | DACON   |
-
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0%    |  | Regression          | LG AI Research + LG Innotek   |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 본선(1/107) | 0.5%  |      | Classification      | LG AI Research + LG Display   |
 | [감귤 착과량 예측 AI 대회](https://github.com/jjuhyeok/DACON_Citrus) | 12/911 | 3%    |     | Regression          | 제주테크노파크                  |
