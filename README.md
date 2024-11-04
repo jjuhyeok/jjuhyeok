@@ -8,6 +8,7 @@
 대회명을 클릭하면 정리한 페이지로 이동됩니다.  
 (현재 모두 private으로 바꿨습니다. 궁금하신분은 wngur21011928@gmail.com 로 연락 부탁드립니다.)
 | 대회명                                              | 순위    | 상위    | 수상 | TASK                 | 주최                           |
+| --- | --- | --- | --- | --- | --- |
 | [온라인 채널 제품 판매량 예측 AI 경진대회📈](https://github.com/jjuhyeok/LG-Demand_Forecasting) | 1/110(본선) | 0.9%    | 대상🥇 | Demand-Forecasting, Time-Series         | LG AI Research + LG 생활건강  |
 | [HD현대 AI Challenge🚜](https://github.com/jjuhyeok/HD-AI_CHALLENGE_FINAL) | 1/30(본선) | 3.33% |  대상🥇 | Sensor, Signal          | HD현대 + HD한국조선해양 + HD현대건설기계 |
 | [Pathology Medical Image AI Challenge🏣](https://github.com/jjuhyeok/SNUH-Pathology_Medical_Image_AI_Challenge) | 1/248  | 0.4% | 대상🥇 | Multi-Modal,    Pathology Data        | 서울대학교병원                  |
