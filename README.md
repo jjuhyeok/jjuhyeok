@@ -21,7 +21,6 @@
 | [제주도 특산물 가격 예측 AI 대회🍊](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 10/2517 | 0.3%  | 3등상🥉 | Time-Series         | 제주특별자치도                  |
 | [자율 운항 선박 대회🚤](https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition) |  |    | 장려상🥉 | Ocean          | 대한조선학회   |
 | [제1회 Medical AI (MAI) 경진대회🚤](https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition) |  |    | 장려상🥉 | Medical          | 고려대학교의료원   |
-
 | 2022 Sejong AI Challenge |     |      | 장려상🥉 | classification        | Sejong Univ                           |
 | DACrew | 1/114 |   0.9% | 1등🥇 | Transformer          | DACON   |
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0.04%    |  | Industry, Regression          | LG AI Research + LG Innotek   |
