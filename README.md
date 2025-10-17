@@ -2,10 +2,10 @@
 - **AI Engineer (KB국민은행 / 2024.12 ~ 2025.02)**
 - **AI Engineer (Ineeji)**
  **(AI 기반 정유 공정 최적화(예측 모델 개발) 및 이상탐지 / 2023.02 ~ 2023.12)**
-- [**LG Aimers 특강(강사)**](https://www.lgresearch.ai/news/view?seq=563)🔗
-- [**인공지능 랭커 특강(강사)**](https://dacon.io/forum/410316?page=1&dtype=recent&fType=&category=daschool)🔗
-- [**DACON PBL 제작(외주)**](https://dacon.io/edu/1011)🔗
-- [**수상자 코드 해설서 제작(외주)**](https://dacon.io/edu/192/)🔗
+- [**LG Aimers 특강(강사/LG AI 연구원)**](https://www.lgresearch.ai/news/view?seq=563)🔗
+- [**인공지능 랭커 특강(강사/데이콘)**](https://dacon.io/forum/410316?page=1&dtype=recent&fType=&category=daschool)🔗
+- [**DACON PBL 제작(외주/데이콘)**](https://dacon.io/edu/1011)🔗
+- [**수상자 코드 해설서 제작(외주/데이콘)**](https://dacon.io/edu/192/)🔗
 
 # Records 🏆
 대회명을 클릭하면 정리한 페이지로 이동됩니다.  
