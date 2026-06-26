@@ -28,6 +28,7 @@
 | DACrew | 1/114 |   0.9% | 1등🥇 | Transformer          | DACON   |
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0.04%    |  | Industry, Regression          | LG AI Research + LG Innotek   |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 본선(1/107) | 1%  |      | Industry, Classification      | LG AI Research + LG Display   |
+| [Boost up AI 2025 : 신약 개발 경진대회⚙️](https://github.com/jjuhyeok/AI_Based_Drug_Discovery) | 1/1323 | 0.1%  |      | Regression, Chemical      | 한국화학연구원, 생명공학연구원   |
 | [상수도 관망 이상 감지 AI 알고리즘 개발](https://github.com/jjuhyeok/K-water_anomaly_detection) | 5/1155 | 0.4%  |      | Anomaly Detection | K-water  |
 | [영업 기회 전환 예측 AI 경진대회🧑‍💼](https://github.com/jjuhyeok/LG-B2B_Sales) |  |    |     | Classification         |        LG AI Research + LG 전자   
 | [감귤 착과량 예측 AI 대회🍊](https://github.com/jjuhyeok/DACON_Citrus) | 12/911 | 1%    |     | Regression          | 제주테크노파크                  |
