@@ -20,6 +20,7 @@
 | [상추의 생육 환경 생성 AI 대회🥬](https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction) | 2/861 | 0.2%    | 2등상🥈 | Time-Series, Generative        | 한국과학기술연구원                           |
 | [2024 자동차 데이터 분석 경진대회🚘](https://github.com/jjuhyeok/2024_Automotive_Data_Analysis_Competition) | 2/845 | 0.2% | 최우수상🥈 | Prompt-Engineering | 대구디지털혁신진흥원 |
 | 2023 Sejong AI Challenge |     |      | 2등상🥈 | Signal, Sensor         | Sejong Univ                           |
+| 2024 Sejong AI Challenge |     |      | 2등상🥈 | Signal, Sensor         | Sejong Univ                           |
 | [제주도 교통량 예측 AI 대회🏝️](https://github.com/jjuhyeok/DACON_Jeju_Island_Traffic_Jam_Prediction) | 3/2073 | 0.1% | 3등상🥉 | Regression          | 제주특별자치도                  |
 | [제주도 특산물 가격 예측 AI 대회🍊](https://github.com/jjuhyeok/JEJU-Jeju_Island_specialty_price_forecasting) | 10/2517 | 0.3%  | 3등상🥉 | Time-Series         | 제주특별자치도                  |
 | [자율 운항 선박 대회🚤](https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition) |  |    | 장려상🥉 | Ocean          | 대한조선학회   |
@@ -29,9 +30,9 @@
 | [자율주행 센서의 안테나 성능 예측 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-AI_Radar) | 1/2050  | 0.04%    |  | Industry, Regression          | LG AI Research + LG Innotek   |
 | [스마트 공장 제품 품질 상태 분류 AI 경진대회⚙️](https://github.com/jjuhyeok/LG-Smart_Factory_3) | 본선(1/107) | 1%  |      | Industry, Classification      | LG AI Research + LG Display   |
 | [Boost up AI 2025 : 신약 개발 경진대회💊](https://github.com/jjuhyeok/AI_Based_Drug_Discovery) | 1/1323 | 0.1%  |      | Regression, Chemical      | 한국화학연구원, 생명공학연구원   |
-| [토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발⚙️](https://github.com/jjuhyeok/Toss-CTR_Prediction) | 본선 진출 | 0.4%  |      | Classification, CTR      | 토스   |
-| [리조트 식음업장(매장) 메뉴 수요 예측 AI 해커톤⚙️](https://github.com/jjuhyeok/LG-Menu_Forecasting) | 본선(8/263) | 3%  |      | Demand-Forecasting, Time-Series      | LG AI 연구원   |
-| [상수도 관망 이상 감지 AI 알고리즘 개발](https://github.com/jjuhyeok/K-water_anomaly_detection) | 5/1155 | 0.4%  |      | Anomaly Detection | K-water  |
+| [토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발📊](https://github.com/jjuhyeok/Toss-CTR_Prediction) | 본선 진출 | 0.4%  |      | Classification, CTR      | 토스   |
+| [리조트 식음업장(매장) 메뉴 수요 예측 AI 해커톤🍝](https://github.com/jjuhyeok/LG-Menu_Forecasting) | 본선(8/263) | 3%  |      | Demand-Forecasting, Time-Series      | LG AI 연구원   |
+| [상수도 관망 이상 감지 AI 알고리즘 개발🚰](https://github.com/jjuhyeok/K-water_anomaly_detection) | 5/1155 | 0.4%  |      | Anomaly Detection | K-water  |
 | [영업 기회 전환 예측 AI 경진대회🧑‍💼](https://github.com/jjuhyeok/LG-B2B_Sales) |  |    |     | Classification         |        LG AI Research + LG 전자   
 | [감귤 착과량 예측 AI 대회🍊](https://github.com/jjuhyeok/DACON_Citrus) | 12/911 | 1%    |     | Regression          | 제주테크노파크                  |
 | [앱 사용성 데이터를 통한 대출신청 예측💳](https://github.com/jjuhyeok/2022_Big_Contest) |  |    |     | Classification         |        빅콘테스트   
